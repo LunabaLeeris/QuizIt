@@ -14,6 +14,9 @@ A Java-swing quiz maker application.
  The quizes are also saved in your device for future purposes!. 
  
  The code wasn't maintained as I did this in a rush -_-#
+ 
+ ALSO, I used java swing the cave-man way (without using a java-swing program where you just drag stuff)
+ because WHERE'S THE FUN IN THAT ?!
 
 # Future additions
 
