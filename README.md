@@ -10,3 +10,10 @@ A Java-swing quiz maker application.
  It is an application that creates a quiz for you. All you have to do is input a defition-answer pair. 
  
  You can also configure the quiz you want (multiple-choice, identification, fill in the blanks etc.) (timed or not). 
+ 
+ The quizes are also saved in your device for future purposes!. 
+
+# Future additions
+
+ If time will permit, I will add a way to share your quiz to other quiz-it users through links. 
+
