@@ -12,6 +12,8 @@ A Java-swing quiz maker application.
  You can also configure the quiz you want (multiple-choice, identification, fill in the blanks etc.) (timed or not). 
  
  The quizes are also saved in your device for future purposes!. 
+ 
+ The code wasn't maintained as I did this in a rush -_-#
 
 # Future additions
 
